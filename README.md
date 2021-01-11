@@ -1,4 +1,4 @@
-![Cover Image](cover.png)
+![Cover Image](./images/cover-new.png)
 
 | Social Media | &nbsp; | &nbsp; | Blog | &nbsp; | Art | Email |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
