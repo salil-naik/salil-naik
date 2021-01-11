@@ -1,5 +1,7 @@
 ![Cover Image](cover.png)
 
+| Social Media | &nbsp; | &nbsp; | Blog | &nbsp; | Art | Email |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [Twitter](https://twitter.com/__salil_naik__) | [LinkedIn](https://www.linkedin.com/in/salilnaik/) | [Instagram](https://www.instagram.com/_salilnaik_/) | [Medium](https://medium.com/@salil.naik27) | [Dev](https://dev.to/salilnaik) | [Codepen](https://codepen.io/salilnaik) | [Email](mailto:salil.naik27@gmail.com) |
 
 <hr>
@@ -17,9 +19,9 @@
 
 | Episode | Spotify | Google Podcasts | Anchor |
 | ------- | ------- | --------------- | ------ |
-| Ep 4: The book that changed my life | [Listen on Spotify](https://open.spotify.com/episode/7Kx0Da9k4Vzk8sibAkIEDb?si=Og9a4MUxQ-Gdp0yyRLniHQ) | [Listen on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mNGEwYmI0L3BvZGNhc3QvcnNz/episode/YzI4ZjU1NzQtYjA3Yi00YjU5LTk3ODQtOTMyMmExNTRjNDY5?sa=X&ved=0CAQQ8qgGahcKEwjo6a6Y-5PuAhUAAAAAHQAAAAAQAQ) | [Anchor](https://anchor.fm/the-hustle-radio/episodes/Ep-4-The-book-that-changed-my-life-eoe8ol) | 
-| Ep 3: Learn how to set high goals and achieve them. | [Listen on Spotify](https://open.spotify.com/episode/6x7YOmOevNIpkl9IT5Vv2T?si=QsKwPIzCQRC_OwpdnXRmSw) | [Listen on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mNGEwYmI0L3BvZGNhc3QvcnNz/episode/MTBmMzg4MmMtYjYxNC00M2ZkLWJjZmYtMmQ0N2UyZDRiMWE0?sa=X&ved=0CAUQkfYCahcKEwigu9eg-5PuAhUAAAAAHQAAAAAQAQ) | [Anchor](https://anchor.fm/the-hustle-radio/episodes/Ep-3-Learn-how-to-set-high-goals-and-achieve-them-e9rcnt/a-a17mv4n) | 
-| Ep 2: 10-minute rule. Stop Overthinking. | [Listen on Spotify](https://open.spotify.com/episode/2k2dqNncKN5cOslhu7iFUU?si=PnzVmwXkQn-8DprbF_Iyrg) | [Listen on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mNGEwYmI0L3BvZGNhc3QvcnNz/episode/MmVjMzQxYTUtZDI4ZS0xYTQzLTJiMmItZTEzZWVlMWYzYTJk?sa=X&ved=0CAUQkfYCahcKEwjQmZaL_JPuAhUAAAAAHQAAAAAQAQ) | [Anchor](https://anchor.fm/the-hustle-radio/episodes/Ep-2-10-minute-rule--Stop-Overthinking-e8ubut/a-a110oh4) | 
+| Ep 4: The book that changed my life | [Listen on Spotify](https://open.spotify.com/episode/7Kx0Da9k4Vzk8sibAkIEDb?si=Og9a4MUxQ-Gdp0yyRLniHQ) | [Listen on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mNGEwYmI0L3BvZGNhc3QvcnNz/episode/YzI4ZjU1NzQtYjA3Yi00YjU5LTk3ODQtOTMyMmExNTRjNDY5?sa=X&ved=0CAQQ8qgGahcKEwjo6a6Y-5PuAhUAAAAAHQAAAAAQAQ) | [Listen on Anchor](https://anchor.fm/the-hustle-radio/episodes/Ep-4-The-book-that-changed-my-life-eoe8ol) | 
+| Ep 3: Learn how to set high goals and achieve them. | [Listen on Spotify](https://open.spotify.com/episode/6x7YOmOevNIpkl9IT5Vv2T?si=QsKwPIzCQRC_OwpdnXRmSw) | [Listen on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mNGEwYmI0L3BvZGNhc3QvcnNz/episode/MTBmMzg4MmMtYjYxNC00M2ZkLWJjZmYtMmQ0N2UyZDRiMWE0?sa=X&ved=0CAUQkfYCahcKEwigu9eg-5PuAhUAAAAAHQAAAAAQAQ) | [Listen on Anchor](https://anchor.fm/the-hustle-radio/episodes/Ep-3-Learn-how-to-set-high-goals-and-achieve-them-e9rcnt/a-a17mv4n) | 
+| Ep 2: 10-minute rule. Stop Overthinking. | [Listen on Spotify](https://open.spotify.com/episode/2k2dqNncKN5cOslhu7iFUU?si=PnzVmwXkQn-8DprbF_Iyrg) | [Listen on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mNGEwYmI0L3BvZGNhc3QvcnNz/episode/MmVjMzQxYTUtZDI4ZS0xYTQzLTJiMmItZTEzZWVlMWYzYTJk?sa=X&ved=0CAUQkfYCahcKEwjQmZaL_JPuAhUAAAAAHQAAAAAQAQ) | [Listen on Anchor](https://anchor.fm/the-hustle-radio/episodes/Ep-2-10-minute-rule--Stop-Overthinking-e8ubut/a-a110oh4) | 
 
 [Listen more](https://open.spotify.com/show/5NUCt7kFlBhtenJmPPMozK)
 
