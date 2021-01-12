@@ -1,9 +1,4 @@
-![Cover Image](./images/cover.png)
-
-| Social Media | &nbsp; | &nbsp; | Blog | &nbsp; | Art | Email |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [Twitter](https://twitter.com/__salil_naik__) | [LinkedIn](https://www.linkedin.com/in/salilnaik/) | [Instagram](https://www.instagram.com/_salilnaik_/) | [Medium](https://medium.com/@salil.naik27) | [Dev](https://dev.to/salilnaik) | [Codepen](https://codepen.io/salilnaik) | [Email](mailto:salil.naik27@gmail.com) |
-
+![Cover Image](./images/cover.png) 
 <hr>
 
 ## ✍ Blog and writing
@@ -24,6 +19,13 @@
 | Ep 2: 10-minute rule. Stop Overthinking. | [Listen on Spotify](https://open.spotify.com/episode/2k2dqNncKN5cOslhu7iFUU?si=PnzVmwXkQn-8DprbF_Iyrg) | [Listen on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mNGEwYmI0L3BvZGNhc3QvcnNz/episode/MmVjMzQxYTUtZDI4ZS0xYTQzLTJiMmItZTEzZWVlMWYzYTJk?sa=X&ved=0CAUQkfYCahcKEwjQmZaL_JPuAhUAAAAAHQAAAAAQAQ) | [Listen on Anchor](https://anchor.fm/the-hustle-radio/episodes/Ep-2-10-minute-rule--Stop-Overthinking-e8ubut/a-a110oh4) | 
 
 [Listen more](https://open.spotify.com/show/5NUCt7kFlBhtenJmPPMozK)
+
+<hr>
+
+## 🤝 Connect
+
+| [![Twitter](./icons/twitter.png)](https://twitter.com/__salil_naik__) | [![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/salilnaik/) | [![Instagram](./icons/instagram.png)](https://www.instagram.com/_salilnaik_/) | [![Medium](./icons/medium.png)](https://medium.com/@salil.naik27) | [![Dev](./icons/dev.png)](https://dev.to/salilnaik) | [![Codepen](./icons/codepen.png)](https://codepen.io/salilnaik) | [![Email](./icons/email.png)](mailto:salil.naik27@gmail.com) |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
 <!-- <br>
 
