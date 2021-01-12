@@ -1,6 +1,4 @@
 ![Cover Image](./images/cover.png) 
-<hr>
-
 ## ✍ Blog and writing
 
 | Blog                                                                                                                | Platform          |
@@ -24,8 +22,13 @@
 
 ## 🤝 Connect
 
-| [![Twitter](./icons/twitter.png)](https://twitter.com/__salil_naik__) | [![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/salilnaik/) | [![Instagram](./icons/instagram.png)](https://www.instagram.com/_salilnaik_/) | [![Medium](./icons/medium.png)](https://medium.com/@salil.naik27) | [![Dev](./icons/dev.png)](https://dev.to/salilnaik) | [![Codepen](./icons/codepen.png)](https://codepen.io/salilnaik) | [![Email](./icons/email.png)](mailto:salil.naik27@gmail.com) |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+[![Twitter](./icons/twitter.png)](https://twitter.com/__salil_naik__) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/salilnaik/) &nbsp;&nbsp;&nbsp;
+[![Instagram](./icons/instagram.png)](https://www.instagram.com/_salilnaik_/) &nbsp;&nbsp;&nbsp;
+[![Medium](./icons/medium.png)](https://medium.com/@salil.naik27) &nbsp;&nbsp;&nbsp;
+[![Dev](./icons/dev.png)](https://dev.to/salilnaik) &nbsp;&nbsp;&nbsp;
+[![Codepen](./icons/codepen.png)](https://codepen.io/salilnaik) &nbsp;&nbsp;&nbsp;
+[![Email](./icons/email.png)](mailto:salil.naik27@gmail.com)
 
 <!-- <br>
 
