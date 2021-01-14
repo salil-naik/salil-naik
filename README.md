@@ -22,13 +22,13 @@
 
 ## 🤝 Connect
 
-[![Twitter](./icons/twitter.png)](https://twitter.com/__salil_naik__) &nbsp;&nbsp;&nbsp;
-[![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/salilnaik/) &nbsp;&nbsp;&nbsp;
-[![Instagram](./icons/instagram.png)](https://www.instagram.com/_salilnaik_/) &nbsp;&nbsp;&nbsp;
-[![Medium](./icons/medium.png)](https://medium.com/@salil.naik27) &nbsp;&nbsp;&nbsp;
-[![Dev](./icons/dev.png)](https://dev.to/salilnaik) &nbsp;&nbsp;&nbsp;
-[![Codepen](./icons/codepen.png)](https://codepen.io/salilnaik) &nbsp;&nbsp;&nbsp;
-[![Email](./icons/email.png)](mailto:salil.naik27@gmail.com)
+[![Twitter](./icons/twitter.svg)](https://twitter.com/__salil_naik__) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/salilnaik/) &nbsp;&nbsp;&nbsp;
+[![Instagram](./icons/instagram.svg)](https://www.instagram.com/_salilnaik_/) &nbsp;&nbsp;&nbsp;
+[![Medium](./icons/medium.svg)](https://medium.com/@salil.naik27) &nbsp;&nbsp;&nbsp;
+[![Dev](./icons/dev.svg)](https://dev.to/salilnaik) &nbsp;&nbsp;&nbsp;
+[![Codepen](./icons/codepen.svg)](https://codepen.io/salilnaik) &nbsp;&nbsp;&nbsp;
+[![Email](./icons/email.svg)](mailto:salil.naik27@gmail.com)
 
 <!-- <br>
 
