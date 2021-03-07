@@ -3,6 +3,7 @@
 
 | Blog                                                                                                                | Platform          |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Understanding the Synthetix Defi protocol.](https://dev.to/salilnaik/understanding-the-synthetix-defi-protocol-368c) | The Practical DEV |
 | [What is web a11y and why is it important?](https://dev.to/salilnaik/what-is-web-a11y-and-why-is-it-important-4fic) | The Practical DEV |
 | [My HackHarvard 2019 Experience](https://medium.com/@salil.naik27/my-hackharvard-2019-experience-da1b64f4e5c5)      | Medium            |
 
