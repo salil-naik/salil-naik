@@ -1,4 +1,7 @@
 ![Cover Image](./images/cover.png) 
+
+If you want to make your own cover image similar to mine 👆, use [Cover Image Generator](http://cover-image-generator.netlify.com/)
+
 ## ✍ Blog and writing
 
 | Blog                                                                                                                | Platform          |
