@@ -6,6 +6,7 @@ If you want to make your own cover image similar to mine 👆, use [Cover Image 
 
 | Blog                                                                                                                | Platform          |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [My Ethereum India Fellowship Journey](https://medium.com/@salil.naik27/my-ethereum-india-fellowship-journey-1637a9fe9e95) | Medium |
 | [Understanding the Synthetix Defi protocol.](https://dev.to/salilnaik/understanding-the-synthetix-defi-protocol-368c) | The Practical DEV |
 | [What is web a11y and why is it important?](https://dev.to/salilnaik/what-is-web-a11y-and-why-is-it-important-4fic) | The Practical DEV |
 | [My HackHarvard 2019 Experience](https://medium.com/@salil.naik27/my-hackharvard-2019-experience-da1b64f4e5c5)      | Medium            |
@@ -33,23 +34,3 @@ If you want to make your own cover image similar to mine 👆, use [Cover Image 
 [![Dev](./icons/dev.svg)](https://dev.to/salilnaik) &nbsp;&nbsp;&nbsp;
 [![Codepen](./icons/codepen.svg)](https://codepen.io/salilnaik) &nbsp;&nbsp;&nbsp;
 [![Email](./icons/email.svg)](mailto:salil.naik27@gmail.com)
-
-<!-- <br>
-
-![Stats Card](https://github-readme-stats.vercel.app/api?username=salil-naik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-   -->
-
-<!--
-**salil-naik/salil-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
