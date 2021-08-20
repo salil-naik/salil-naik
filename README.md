@@ -6,9 +6,10 @@ If you want to make your own cover image similar to mine 👆, use [Cover Image 
 
 | Blog                                                                                                                | Platform          |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [My Ethereum India Fellowship Journey](https://medium.com/@salil.naik27/my-ethereum-india-fellowship-journey-1637a9fe9e95) | Medium |
+| [The uncanny relationship between position fixed and transform property.](https://dev.to/salilnaik/the-uncanny-relationship-between-position-fixed-and-transform-property-32f6) | The Practical DEV |
 | [Understanding the Synthetix Defi protocol.](https://dev.to/salilnaik/understanding-the-synthetix-defi-protocol-368c) | The Practical DEV |
 | [What is web a11y and why is it important?](https://dev.to/salilnaik/what-is-web-a11y-and-why-is-it-important-4fic) | The Practical DEV |
+| [My Ethereum India Fellowship Journey](https://medium.com/@salil.naik27/my-ethereum-india-fellowship-journey-1637a9fe9e95) | Medium |
 | [My HackHarvard 2019 Experience](https://medium.com/@salil.naik27/my-hackharvard-2019-experience-da1b64f4e5c5)      | Medium            |
 
 <hr>
