@@ -4,8 +4,9 @@ If you want to make your own cover image similar to mine 👆, use [Cover Image 
 
 ## ✍ Blog and writing
 
-| Blog                                                                                                                | Platform          |
+| Blog                                                                                                                | &nbsp;         |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [How I executed Goa Government's ambitious plan to take the Degree and Diploma Admissions online.](https://medium.com/@salil.naik27/how-i-executed-goa-governments-ambitious-plan-to-take-the-degree-and-diploma-admissions-online-46e34bff43b8) | Medium |
 | [The uncanny relationship between position fixed and transform property.](https://dev.to/salilnaik/the-uncanny-relationship-between-position-fixed-and-transform-property-32f6) | The Practical DEV |
 | [Understanding the Synthetix Defi protocol.](https://dev.to/salilnaik/understanding-the-synthetix-defi-protocol-368c) | The Practical DEV |
 | [What is web a11y and why is it important?](https://dev.to/salilnaik/what-is-web-a11y-and-why-is-it-important-4fic) | The Practical DEV |
