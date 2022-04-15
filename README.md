@@ -29,9 +29,9 @@ If you want to make your own cover image similar to mine 👆, use [Cover Image 
 
 ## 🤝 Connect
 
-[![Twitter](./icons/twitter.svg)](https://twitter.com/__salil_naik__) &nbsp;&nbsp;&nbsp;
+[![Twitter](./icons/twitter.svg)](https://twitter.com/0xSalilNaik) &nbsp;&nbsp;&nbsp;
 [![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/salilnaik/) &nbsp;&nbsp;&nbsp;
-[![Instagram](./icons/instagram.svg)](https://www.instagram.com/_salilnaik_/) &nbsp;&nbsp;&nbsp;
+[![Instagram](./icons/instagram.svg)](https://www.instagram.com/0xSalilNaik) &nbsp;&nbsp;&nbsp;
 [![Medium](./icons/medium.svg)](https://medium.com/@salil.naik27) &nbsp;&nbsp;&nbsp;
 [![Dev](./icons/dev.svg)](https://dev.to/salilnaik) &nbsp;&nbsp;&nbsp;
 [![Codepen](./icons/codepen.svg)](https://codepen.io/salilnaik) &nbsp;&nbsp;&nbsp;
